@@ -33,7 +33,7 @@ Agragar personas
 Metodo de ordenamiento
 Tipo de orden (Ascendente o Descendente)
 visualizacion de las personas agregadas
-Buscar persona ( por nombre o edad)
+Buscar persona ( Por nombre o edad)
 
 
 
@@ -72,3 +72,7 @@ Para ejecutar el proyecto:
 Seleccione el tipo de orden:
 1. Ascendente
 2. Descendente
+
+***SELECCION UN CRITERIO DE BUSQUEDA***
+1. Buscar por nombre
+2. Buscar por edad
