@@ -11,6 +11,7 @@ public class View {
     }
 
     public int showMenu() {
+        System.out.println("*** MENU PRINCIPAL ***");
         System.out.println("1. Ingresar personas");
         System.out.println("2. Agregar persona");
         System.out.println("3. Mostrar personas");
