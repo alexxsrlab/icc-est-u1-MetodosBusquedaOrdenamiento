@@ -14,33 +14,33 @@
 
 ## 🛠️ Descripción
 
-Este proyecto implementa Metodos de Busqueda y Ordenamiento para que se pueda ordenar y buscar el arreglo que el usuario ingrese en Java, incluyendo:
+- *Este proyecto implementa Metodos de Busqueda y Ordenamiento para que se pueda ordenar y buscar el arreglo que el usuario ingrese en Java, incluyendo:
 
-Método Busqueda Binaria
-Método Burbuja
-Método Selección
-Método Inserción
+- *Método Busqueda Binaria
+- *Método Burbuja
+- *Método Selección
+- *Método Inserción
 
-Se permite crear:
+- *Se permite crear:
 
-Un arreglo que contiene Nombre y Edad.
-Elegir el numero de personas que vayamos a crear
-Añadir personas al arreglo
+- *Un arreglo que contiene Nombre y Edad.
+- *Elegir el numero de personas que vayamos a crear
+- *Añadir personas al arreglo
 
-Se permite elegir:
+- *Se permite elegir:
 
-Agragar personas
-Metodo de ordenamiento
-Tipo de orden (Ascendente o Descendente)
-visualizacion de las personas agregadas
-Buscar persona ( Por nombre o edad)
+- *Agragar personas
+- *Metodo de ordenamiento
+- *Tipo de orden (Ascendente o Descendente)
+- *Visualizacion de las personas agregadas
+- *Buscar persona ( Por nombre o edad)
 
 
 
 
 ## 🚀 Ejecución
 
-Para ejecutar el proyecto:
+- *Para ejecutar el proyecto:
 
 1. Compila el código:
     bash
